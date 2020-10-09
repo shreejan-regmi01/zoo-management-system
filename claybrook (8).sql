@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 02, 2020 at 09:14 AM
+-- Generation Time: Oct 09, 2020 at 09:48 AM
 -- Server version: 10.1.37-MariaDB
 -- PHP Version: 7.3.0
 
@@ -348,12 +348,12 @@ CREATE TABLE `gallery` (
 INSERT INTO `gallery` (`g_id`, `g_file_name`, `g_file_type`, `g_archived`) VALUES
 (2, 'elephant1_1586622081.jpg', 'image', 'false'),
 (10, 'kangaroo_1586624178.jpg', 'image', 'false'),
-(14, 'animal_life_1586624819.mp4', 'video', 'false'),
+(14, 'animal_life_1586624819.mp4', 'video', 'true'),
 (15, 'black_panther_1586698550.jpg', 'image', 'false'),
 (16, 'buck_1586698556.jpg', 'image', 'false'),
 (17, 'lioness_1586698563.jpg', 'image', 'true'),
 (18, 'swan1_1588401658.jpg', 'image', 'false'),
-(19, 'animal_life101_1588401672.mp4', 'video', 'false');
+(19, 'animal_life101_1588401672.mp4', 'video', 'true');
 
 -- --------------------------------------------------------
 
