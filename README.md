@@ -2,9 +2,9 @@
 
 Zoo management system built using PHP.
 
-Homepage url: localhost/<foldername>/public_html/
+Homepage url: localhost/ <foldername> /public_html/
   
-Admin dashboard: localhost/<foldername>/admin/public_html
+Admin dashboard: localhost/ <foldername> /admin/public_html
   
 Login details:
 
