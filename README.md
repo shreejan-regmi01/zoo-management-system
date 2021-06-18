@@ -2,7 +2,7 @@
 
 Zoo management system built using PHP.
 
-Hosted Online:
+Hosted Online: <br>
 Visitor's Page: http://claybrookzoo.epizy.com/public_html/ <br>
 Admin Dashboard: http://claybrookzoo.epizy.com/admin/public_html/admin_login <br>
   
