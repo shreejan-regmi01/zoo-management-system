@@ -2,9 +2,9 @@
 
 Zoo management system built using PHP.
 
-Homepage url: localhost/foldername/public_html/
-  
-Admin dashboard: localhost/foldername/admin/public_html
+Hosted Online:
+Visitor's Page: http://claybrookzoo.epizy.com/public_html/
+Admin Dashboard: http://claybrookzoo.epizy.com/admin/public_html/admin_login
   
 Login details:
 
@@ -14,3 +14,7 @@ Zookeeper = email: zookeeper@claybrook.com / password: zookeeper123 <br>
 
 Visitor = email: milan@email.com / password: milan123 <br>
 Sponsor= email: himal@gmail.com / password: himal123 <br>
+
+After cloning:
+Homepage url: localhost/foldername/public_html/
+Admin dashboard: localhost/foldername/admin/public_html
